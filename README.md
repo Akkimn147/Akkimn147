@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akkimn147
+- 👋 Hi, I’m Aakash Nemade
 - 👀 I’m A passionate Data Scientist with ML Experience
 - 🔭 I’m currently working on Image Classification Project
 - 🌱 I’m currently learning Deep Learning and NLP
